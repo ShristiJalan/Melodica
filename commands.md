@@ -12,7 +12,7 @@ Name of a project <br>
 <br><br>
 
 creating an app <br>
-- django-admin startapp api
+- django-admin startapp appname
        ```
          
        😉
