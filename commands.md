@@ -10,6 +10,9 @@ Installation of few python packages
 Name of a project <br>
 - django-admin startproject projectname
 <br><br>
+
+creating an app <br>
+- django-admin startapp api
        ```
          
        😉
