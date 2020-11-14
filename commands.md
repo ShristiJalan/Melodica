@@ -12,7 +12,13 @@ Name of a project <br>
 <br><br>
 
 creating an app <br>
-- django-admin startapp appname
+- django-admin startapp appname <br>
+
+- python .\manage.py makemigrations <br>
+
+- python .\manage.py migrate
+
+
        ```
          
        😉
